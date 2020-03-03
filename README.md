@@ -66,3 +66,23 @@
 ## 라이센스
 
 Have a look at the [license file](./license.md) for details
+
+
+
+
+
+## 2020데이터 로드맵에 따른 올해 스터디 계획리스트
+
+  - 프론트엔드 부문
+    리액트, 리덕스, next.js
+   
+  - 백엔드 부문
+    1. 기본적인 터미널 명령어 암기(grep, awk, sed, lsof, curl, wget, tail, less, find, ssh, kill)몇개쓸줄알지만 나머지모르는 것 전부 암기
+    2. posix기초(stdin, stdout, stderr, pipes
+    3. mongoDB(NoSql도 시작)
+    4. OAuth, 토근
+    5. 개발설계 - SOLID, KISS, YAGNI, DRY
+    6. 검색엔진 - 엘라스틱 서치
+  
+  -데브옵스
+   1. 
